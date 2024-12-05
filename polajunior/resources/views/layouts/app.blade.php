@@ -160,12 +160,14 @@
             <div class="header-top-wrapper">
                 <ul class="contact-list">
                     <li>
-                        <i class="fal fa-map-marker-alt"></i>
-                        (629) 555-0129
+                        <a href='tel-'>
+                        <i class="fal fa-phone"></i>
+                        +254721138939
+                        </a>
                     </li>
                     <li>
                         <i class="far fa-envelope"></i>
-                        <a href="info@example.com" class="link">info@polajunior.com</a>
+                        <a href="info@polajunior.com" class="link">info@polajunior.com</a>
                     </li>
                     <li>
                         <i class="fa-solid fa-location-dot"></i>
@@ -189,7 +191,7 @@
         </div>
     </div>
 
-    
+
     <!-- Header Section Start -->
     <header id="header-sticky" class="header-1 white-bg">
         <div class="container">
@@ -287,6 +289,7 @@
 
     @yield('content')
 
+<!-- stay with us -->
 
 
     <!--<< Footer Section Start >>-->

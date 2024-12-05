@@ -20,11 +20,11 @@
                             Primary school </li>
                     </ul>
                 </div>
-                <div class="breadcrumnd-thumb position-relative">
+                <!-- <div class="breadcrumnd-thumb position-relative">
                     <img src="{{ asset('images/abanner/bread-thumb.png') }}" alt="img" class="mimg">
                     <img src="{{ asset('images/abanner/bread-child.png') }}" alt="img" class="bread-child">
                     <img src="{{ asset('images/abanner/bread-cat.png') }}" alt="img" class="bread-cat">
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
